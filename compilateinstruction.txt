@@ -10,3 +10,4 @@ buildozer android clean
 buildozer android debug deploy run
 pip install cython
 + переименовать главный файл проекта в main.py
+kivy-icon-256
